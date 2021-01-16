@@ -1,2 +1,4 @@
 # hello-world
-hello-world python
+
+Hello!
+This is Robert. Im learning to code in python.
